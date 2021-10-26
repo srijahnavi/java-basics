@@ -13,7 +13,7 @@ public class ArrayList9 {
 		al2.add("apple");
 		al2.add("rethu");
 		
-		al2.retainAll(al2);
+		al.retainAll(al2);
 		
 		System.out.println("iterating the elements after retaining the elements of al2");
 		Iterator itr=al.iterator();
