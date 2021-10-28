@@ -14,6 +14,18 @@ public abstract class FlyingCar {
 	public abstract void StopCar();
 	public abstract void flyCar();
 	public abstract void landCar();
+	public void landcar() {
+		// TODO Auto-generated method stub
+		
+	}
+	public void flycar() {
+		// TODO Auto-generated method stub
+		
+	}
+	public void stopcar() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 
 }
